@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SqliteDemo</string>
+    <string name="create_db">创建数据库</string>
+    <string name="update_db">更新数据库</string>
+    <string name="insert_data">插入数据</string>
+    <string name="update_data">修改数据</string>
+    <string name="query_data">查询数据</string>
+    <string name="delete_data">删除数据</string>
+    <string name="delete_db">删除数据库</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
